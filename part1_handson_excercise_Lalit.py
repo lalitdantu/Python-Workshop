@@ -18,11 +18,11 @@ else:
 picked_fruit = random.choice(['orange', 'strawberry', 'banana'])
 
 if picked_fruit == 'orange':
-    print("The color of the",picked_fruit,"is Orange")
+    print("The color of ",picked_fruit,"is Orange")
 elif picked_fruit == 'strawberry':
-    print("The color of the",picked_fruit,"is Red")
+    print("The color of ",picked_fruit,"is Red")
 elif picked_fruit == 'banana':
-    print("The Color of the",picked_fruit,"is Yellow") 
+    print("The Color of ",picked_fruit,"is Yellow") 
 
 # TODO: Write a function that multiplies two numbers and returns the result
 # Define the function here.
